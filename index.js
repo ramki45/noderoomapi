@@ -3,7 +3,6 @@ const app = express();
 app.use(express.json());
 let customer = [];
 let rooms = [];
-let remove = [];
 
 
 //post room details
